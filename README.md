@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **anandarh/anandarh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center"><img src ="https://raw.githubusercontent.com/ijlik/ijlik/master/octocat.gif" width="150px" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anandarh&show_icons=true&count_private=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandarh&layout=compact&langs_count=8" />
+</p>
