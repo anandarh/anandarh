@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="center">
    <img height="170" src="https://github-readme-stats.vercel.app/api?username=anandarh&show_icons=true&count_private=true&hide_border=true" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandarh&layout=compact&langs_count=8&hide_border=true" />
+   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandarh&layout=compact&langs_count=8&hide_border=true" />
  </p>
 <p align="center">
   <a href="https://wakatime.com/@anandarh" target="blank"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=anandarh&hide_border=true" /></a>
