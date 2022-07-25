@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate mobile developer from Bandung</h3>
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=anandarh&show_icons=true&count_private=true&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandarh&layout=compact&langs_count=8&hide_border=true" />
+ <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=anandarh&count_private=true&include_all_commits=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandarh&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
 </div>
 <p align="center">
   <a href="https://wakatime.com/@anandarh" target="blank"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=anandarh&hide_border=true" /></a>
