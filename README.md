@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate mobile developer from Bandung</h3>
 
 <p align="center">
- <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=anandarh&count_private=true&include_all_commits=true" />
+ <img height="170" src="https://github-readme-stats.vercel.app/api?username=anandarh&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandarh&layout=compact" />
 </p>
 <p align="center">
